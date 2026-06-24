@@ -10,6 +10,7 @@ Egy valós idejű, több felhasználós kollaboratív rajztábla és vizuális t
 
 
 > **1.**
+> 
 > *<img width="508" height="857" alt="kép" src="https://github.com/user-attachments/assets/4fae5a81-2373-4fc7-a5b1-35e00ff4ba58" />*
 > 
 > **2.**
