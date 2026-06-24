@@ -10,14 +10,14 @@ Egy valós idejű, több felhasználós kollaboratív rajztábla és vizuális t
 
 
 > **1.**
-<img width="508" height="857" alt="kép" src="https://github.com/user-attachments/assets/4fae5a81-2373-4fc7-a5b1-35e00ff4ba58" />
+> *<img width="508" height="857" alt="kép" src="https://github.com/user-attachments/assets/4fae5a81-2373-4fc7-a5b1-35e00ff4ba58" />*
 > 
 > **2.**
-> <img width="1878" height="951" alt="kép" src="https://github.com/user-attachments/assets/0229083e-6226-474c-ba81-24fafad676e0" />
+> *<img width="1878" height="951" alt="kép" src="https://github.com/user-attachments/assets/0229083e-6226-474c-ba81-24fafad676e0" />*
 >
 > 
 > **3.**
-> <img width="2496" height="1308" alt="kép" src="https://github.com/user-attachments/assets/3f5c0c4a-50f1-4365-916e-0f59c3af8cd5" />
+> *<img width="2496" height="1308" alt="kép" src="https://github.com/user-attachments/assets/3f5c0c4a-50f1-4365-916e-0f59c3af8cd5" />*
 
 
 ---
