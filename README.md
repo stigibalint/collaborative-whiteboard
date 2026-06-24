@@ -2,8 +2,8 @@
 
 Egy valós idejű, több felhasználós kollaboratív rajztábla és vizuális tervező alkalmazás. A projekt célja egy gyors, rendkívül reszponzív és felhasználóbarát felület biztosítása közös ötleteléshez, távoktatáshoz vagy vizuális tervezéshez, ahol a résztvevők azonnal látják egymás kurzorát és módosításait.
 
-*(Jelenleg a forráskód zárt, ez a leírás a projekt technikai képességeit, a rendszerarchitektúrát és a felhasznált modern webes technológiákat hivatott bemutatni.)*
-
+> [!IMPORTANT]
+> **Jelenleg a forráskód zárt.** Ez a leírás a projekt technikai képességeit, a rendszerarchitektúrát és a felhasznált modern webes technológiákat hivatott bemutatni.
 ---
 
 ## 📸 Képernyőképek az alkalmazásról
